@@ -29,7 +29,7 @@ Painel Administrador :
 
 <img width="1919" height="909" alt="lucro do sistema" src="https://github.com/user-attachments/assets/4d5bff71-c618-4615-8385-2c73882b9276" />
 
-
+<br><br><br><br><br>
 Painel do usuário : 
 
 
