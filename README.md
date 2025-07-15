@@ -1,4 +1,4 @@
- Sistema de Aluguel de Motos
+ Sistema de Aluguel de Motos<br>
 Este projeto tem como objetivo oferecer uma solução web completa para o gerenciamento de aluguel de motos, com funcionalidades específicas para usuários e administradores.
 Funcionalidades para o Usuário:
 Cadastro e login de contas, visualização das motos disponíveis para aluguel, acompanhamento das motos ativas no nome do usuário, e dição de dados pessoais através de uma interface simples.
