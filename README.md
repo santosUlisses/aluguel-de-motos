@@ -190,3 +190,34 @@ Durante o desenvolvimento, foram trabalhados conceitos como:
 O sistema reúne funcionalidades administrativas e operacionais em uma única plataforma, oferecendo recursos para gerenciar motos, aluguéis, pagamentos, manutenções e interações com os usuários.
 
 Além de atender às necessidades propostas para o sistema de locação, o projeto serviu como oportunidade para praticar organização de código, integração entre aplicações e desenvolvimento de funcionalidades comuns em sistemas web reais.
+
+
+
+
+### Painel administrativo
+![Painel administrativo](docs/screenshots/painel-admin.png)
+
+![Usuarios](docs/screenshots/usuarios.png)
+
+![Motos](docs/screenshots/lista-motos.png)
+
+![Alugueis](docs/screenshots/lista-alugueis.png)
+
+![Imagens site](docs/screenshots/imagens-site.png)
+
+![Lista Pagamentos](docs/screenshots/lista-pagamentos.png)
+
+![Comentarios](docs/screenshots/comentarios.png)
+
+
+### Painel Usuario
+
+![Painel Usuario](docs/screenshots/painel-usuario.png)
+
+![Alugueis Usuario](docs/screenshots/alugueis-usuario.png)
+
+![Pagamentos Usuario](docs/screenshots/pagamentos-usuario.png)
+
+![Comentario](docs/screenshots/comentario.png)
+
+
