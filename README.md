@@ -192,6 +192,9 @@ O sistema reúne funcionalidades administrativas e operacionais em uma única pl
 Além de atender às necessidades propostas para o sistema de locação, o projeto serviu como oportunidade para praticar organização de código, integração entre aplicações e desenvolvimento de funcionalidades comuns em sistemas web reais.
 
 
+### Landing page
+
+![Landing page](docs/screenshots/landing-page.png)
 
 
 ### Painel administrativo
